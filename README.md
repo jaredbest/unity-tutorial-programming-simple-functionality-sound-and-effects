@@ -1,1 +1,10 @@
-# unity-tutorial-programming-simple-functionality-sound-and-effects
+<div align="center">
+  <img alt="Preview" src="./Images/hero.gif" width="800">
+</div>
+
+# Course Repo
+
+- **Title:** Programming Simple Functionality: Unit 3 - Sound and Effects
+- **Taught by:** Unity Technologies
+- **Platform:** Unity Learn
+- **Note(s):**
